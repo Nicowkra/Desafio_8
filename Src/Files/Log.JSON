@@ -1,0 +1,67 @@
+[
+  {
+    "author": {
+      "id": "d@a",
+      "name": "nico",
+      "lastName": "wald",
+      "age": "21",
+      "alias": "nicowkraw",
+      "avatar": "ghdsjk.com"
+    },
+    "id": 1,
+    "message": "holaaa",
+    "time": "7/4/2022 0:9:22"
+  },
+  {
+    "author": {
+      "id": "d@b",
+      "name": "nico",
+      "lastName": "wald",
+      "age": "21",
+      "alias": "nicowkraw",
+      "avatar": "ghdsjk.com"
+    },
+    "id": 2,
+    "message": "gadgsdg",
+    "time": "7/4/2022 0:9:22"
+  },
+  {
+    "author": {
+      "id": "g@a",
+      "name": "juan",
+      "lastName": "gk",
+      "age": "5",
+      "alias": "ga",
+      "avatar": "https://cdn2.iconfinder.com/data/icons/avatars-60/5985/4-Writer-256.png"
+    },
+    "id": 3,
+    "message": "bhahah",
+    "time": "7/4/2022 0:9:22"
+  },
+  {
+    "author": {
+      "id": "g@a",
+      "name": "pedro",
+      "lastName": "pedros",
+      "age": "34",
+      "alias": "ga",
+      "avatar": "https://cdn2.iconfinder.com/data/icons/avatars-60/5985/4-Writer-256.png"
+    },
+    "id": 4,
+    "message": "5a",
+    "time": "7/4/2022 12:18:43"
+  },
+  {
+    "author": {
+      "id": "g@r",
+      "name": "agustin",
+      "lastName": "perez",
+      "age": "42",
+      "alias": "mgsl",
+      "avatar": "https://cdn2.iconfinder.com/data/icons/avatars-60/5985/4-Writer-256.png"
+    },
+    "message": "funciona?",
+    "time": "7/4/2022 12:30:16",
+    "id": 5
+  }
+]
